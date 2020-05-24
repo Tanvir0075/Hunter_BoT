@@ -2,6 +2,7 @@
 Vill4!n'S Team's Bug Hunting T00ls 
 # Requirement
  !!> Python3
+ 
  !!> Linux ( If there is, it is good )
 # How to Install:
 First go your Ternimal. Then
